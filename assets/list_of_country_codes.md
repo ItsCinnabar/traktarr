@@ -33,7 +33,7 @@
 | Ireland                                | `ie`         |
 | Israel                                 | `il`         |
 | Italy                                  | `it`         |
-| Japan                                  | `jp`         |
+| Japan                                  | `ja`         |
 | Kenya                                  | `ke`         |
 | Korea, Democratic People's Republic of | `kp`         |
 | Korea, Republic of                     | `kr`         |
